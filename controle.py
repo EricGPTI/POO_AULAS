@@ -12,9 +12,6 @@ class Controle:
     def canal_anterior(self):
         return -1
 
-    def canal(self, canal):
-        return canal
-
     def volume_mais(self):
         return 1
 
