@@ -1,10 +1,10 @@
 class Controle:
 
     def ligar(self):
-        return 'TV ligada.'
+        return 1
 
     def desligar(self):
-        return 'TV desligada.'
+        return -1
 
     def canal_proximo(self):
         return 1
